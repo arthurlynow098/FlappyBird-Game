@@ -4,21 +4,33 @@
 
 <p align="center">Jogo de navegador inspirado em Flappy Bird, feito com JavaScript, HTML e CSS.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-C52E36?style=flat-square" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-24272E?style=flat-square" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-24272E?style=flat-square" alt="CSS">
-</p>
+<p align="center"><img src="assets/docs/tags.svg" alt="JavaScript · HTML · CSS" width="72%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
 ---
 
-## Visão geral
+<a id="explore-o-projeto"></a>
+
+![Explore o projeto](assets/docs/section-01.svg)
+
+![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
+
+| Área | O que você encontra | Acesso direto |
+|---|---|---|
+| **Página** | Estrutura da página do jogo. | [Abrir página →](Flappy-Bird-main/index.html) |
+| **Jogo** | Lógica e interação em JavaScript. | [Abrir jogo →](Flappy-Bird-main/script.js) |
+| **Elementos visuais** | Sprites, cenário e imagens da interface. | [Abrir elementos visuais →](Flappy-Bird-main/images) |
+
+<a id="visão-geral"></a>
+
+![Visão geral](assets/docs/section-02.svg)
 
 Todos os recursos gráficos clássicos — cenário de fundo, pássaro, canos superiores e inferiores, logotipo e tela de *Game Over* — estão organizados localmente na pasta Flappy-Bird-main/images/, permitindo executar o jogo imediatamente em qualquer navegador moderno.
 
-## Recursos
+<a id="recursos"></a>
+
+![Recursos](assets/docs/section-03.svg)
 
 | Recurso | Como funciona |
 |---|---|
@@ -29,7 +41,9 @@ Todos os recursos gráficos clássicos — cenário de fundo, pássaro, canos su
 | Sistema de pontuação | Incremento automático do placar a cada par de obstáculos superado com sucesso. |
 | Fluxo de reinício | Tela de início com botão interativo e transição imediata para nova tentativa após o *Game Over*. |
 
-## Tecnologias
+<a id="tecnologias"></a>
+
+![Tecnologias](assets/docs/section-04.svg)
 
 - **JavaScript (script.js)** para o game loop, eventos de teclado/clique, física e placar;
 - **HTML5 (index.html)** para estruturação do palco do jogo;
@@ -58,7 +72,7 @@ flowchart LR
 ```text
 FlappyBird-Game/
 ├── assets/
-│   └── project-animal.png          Emblema do projeto
+│   └── banner-v2.png               Banner do projeto
 ├── Flappy-Bird-main/
 │   ├── images/                         Sprites do pássaro, canos, cenário e UI
 │   ├── index.html                      Página principal do jogo
@@ -69,7 +83,9 @@ FlappyBird-Game/
 
 </details>
 
-## Como executar
+<a id="como-executar"></a>
+
+![Como executar](assets/docs/section-05.svg)
 
 1. Clone o repositório:
    ```bash
@@ -78,7 +94,9 @@ FlappyBird-Game/
 2. Abra o arquivo Flappy-Bird-main/index.html diretamente no navegador (ou utilize a extensão *Live Server* no VS Code).
 3. Pressione a tecla de espaço / seta para cima para controlar a altitude do pássaro e desviar dos canos.
 
-## Decisões técnicas
+<a id="decisões-técnicas"></a>
+
+![Decisões técnicas](assets/docs/section-06.svg)
 
 - **Zero dependências externas:** toda a lógica de colisão e animação foi escrita em JavaScript nativo para manter o carregamento instantâneo e evidenciar os fundamentos da linguagem.
 
