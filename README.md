@@ -4,7 +4,7 @@
 
 <p align="center">Jogo de navegador inspirado em Flappy Bird, feito com JavaScript, HTML e CSS.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="JavaScript · HTML · CSS" width="72%"></p>
+<p align="center"><img src="assets/docs/tags.svg" alt="JavaScript · HTML · CSS" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
@@ -16,11 +16,12 @@
 
 ![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-| Área | O que você encontra | Acesso direto |
-|---|---|---|
-| **Página** | Estrutura da página do jogo. | [Abrir página →](Flappy-Bird-main/index.html) |
-| **Jogo** | Lógica e interação em JavaScript. | [Abrir jogo →](Flappy-Bird-main/script.js) |
-| **Elementos visuais** | Sprites, cenário e imagens da interface. | [Abrir elementos visuais →](Flappy-Bird-main/images) |
+<table width="100%">
+<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
+<tr><td><strong>Página</strong></td><td>Estrutura da página do jogo.</td><td><a href="Flappy-Bird-main/index.html">Abrir página →</a></td></tr>
+<tr><td><strong>Jogo</strong></td><td>Lógica e interação em JavaScript.</td><td><a href="Flappy-Bird-main/script.js">Abrir jogo →</a></td></tr>
+<tr><td><strong>Elementos visuais</strong></td><td>Sprites, cenário e imagens da interface.</td><td><a href="Flappy-Bird-main/images">Abrir elementos visuais →</a></td></tr>
+</table>
 
 <a id="visão-geral"></a>
 
