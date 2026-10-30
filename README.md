@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/project-animal.png" alt="Emblema de FlappyBird-Game" width="144" height="144">
+  <img src="assets/banner-v2.png" alt="FlappyBird-Game" width="100%">
 </p>
-
-<h1 align="center">FlappyBird-Game</h1>
 
 <p align="center">Jogo de navegador inspirado em Flappy Bird, feito com JavaScript, HTML e CSS.</p>
 
