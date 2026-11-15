@@ -123,8 +123,8 @@ FlappyBird-Game/
 
 ## Identidade e créditos
 
-<table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Pardal" width="130"></td><td><strong>Pardal</strong><br>Voo e movimento, elementos centrais do jogo.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/identity-v2/banner.png">Banner em PNG</a></td></tr></table>
+<table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Pássaro" width="130"></td><td><strong>Pássaro</strong><br>Voo e movimento, elementos centrais do jogo.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/identity-v2/banner.png">Banner em PNG</a></td></tr></table>
 
-Artes da coleção fornecida por **Arthur Entsev**, com adaptação das logos e acabamento dos banners realizados com auxílio de geração de imagens. Referências de identidade e apresentação, [LynowCut](https://github.com/arthurlynow098/LynowCut), [LynowMic](https://github.com/arthurlynow098/LynowMic) e [LynowCatch](https://github.com/arthurlynow098/LynowCatch). Os créditos e avisos do conteúdo original foram preservados.
+A gravura do banner é o pássaro do Field Book of Wild Birds and Their Music, de 1921, em domínio público no [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AField_book_of_wild_birds_and_their_music%3B_a_description_of_the_character_and_music_of_birds%2C_intended_to_assist_in_the_identification_of_species_common_in_the_United_States_east_of_the_Rocky_Mountains_%2814751616895%29.jpg).
 
 <p align="center"><a href="#top">Voltar ao topo ↑</a> · <a href="https://github.com/arthurlynow098">Arthur Entsev</a> · <a href="https://arthurentsev.vercel.app/">Portfólio</a></p>
