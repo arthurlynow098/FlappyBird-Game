@@ -21,9 +21,9 @@
 <p><img src="assets/identity-v2/section-01.svg" alt="Por onde começar" width="100%"></p>
 
 
-- **[Página](Flappy-Bird-main/index.html)** — Estrutura da página do jogo.
-- **[Jogo](Flappy-Bird-main/script.js)** — Lógica e interação em JavaScript.
-- **[Elementos visuais](Flappy-Bird-main/images)** — Sprites, cenário e imagens da interface.
+- **[Página](Flappy-Bird-main/index.html)**, estrutura da página do jogo.
+- **[Jogo](Flappy-Bird-main/script.js)**, lógica e interação em JavaScript.
+- **[Elementos visuais](Flappy-Bird-main/images)**, sprites, cenário e imagens da interface.
 
 
 <a id="visão-geral"></a>
@@ -32,7 +32,7 @@
 
 <p><img src="assets/identity-v2/section-02.svg" alt="Sobre o projeto" width="100%"></p>
 
-Todos os recursos gráficos clássicos — cenário de fundo, pássaro, canos superiores e inferiores, logotipo e tela de *Game Over* — estão organizados localmente na pasta Flappy-Bird-main/images/, permitindo executar o jogo imediatamente em qualquer navegador moderno.
+Todos os recursos gráficos clássicos, cenário de fundo, pássaro, canos superiores e inferiores, logotipo e tela de *Game Over*, estão organizados localmente na pasta Flappy-Bird-main/images/, permitindo executar o jogo imediatamente em qualquer navegador moderno.
 
 <a id="recursos"></a>
 
@@ -64,9 +64,9 @@ Tela de início com botão interativo e transição imediata para nova tentativa
 
 <p><img src="assets/identity-v2/section-04.svg" alt="Tecnologias" width="100%"></p>
 
-- **JavaScript (script.js)** para o game loop, eventos de teclado/clique, física e placar;
-- **HTML5 (index.html)** para estruturação do palco do jogo;
-- **CSS3 (style.css)** para estilização, posicionamento e responsividade do container;
+- **JavaScript (script.js)** para o game loop, eventos de teclado/clique, física e placar
+- **HTML5 (index.html)** para estruturação do palco do jogo
+- **CSS3 (style.css)** para estilização, posicionamento e responsividade do container
 - **Sprites PNG** dedicados para todos os elementos visuais da partida.
 
 <a id="arquitetura"></a>
@@ -110,7 +110,7 @@ FlappyBird-Game/
 
 <p><img src="assets/identity-v2/section-07.svg" alt="Como executar" width="100%"></p>
 
-1. Clone o repositório:
+1. Clone o repositório
    ```bash
    git clone https://github.com/arthurlynow098/FlappyBird-Game.git
    ```
@@ -123,7 +123,7 @@ FlappyBird-Game/
 
 <p><img src="assets/identity-v2/section-08.svg" alt="Decisões técnicas" width="100%"></p>
 
-- **Zero dependências externas:** toda a lógica de colisão e animação foi escrita em JavaScript nativo para manter o carregamento instantâneo e evidenciar os fundamentos da linguagem.
+- **Zero dependências externas.** Toda a lógica de colisão e animação foi escrita em JavaScript nativo para manter o carregamento instantâneo e evidenciar os fundamentos da linguagem.
 
 
 <p align="center">
@@ -139,6 +139,6 @@ FlappyBird-Game/
 
 <table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Pardal" width="130"></td><td><strong>Pardal</strong><br>Voo e movimento, elementos centrais do jogo.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/identity-v2/banner.png">Banner em PNG</a></td></tr></table>
 
-Artes da coleção fornecida por **Arthur Entsev**, com adaptação das logos e acabamento dos banners realizados com auxílio de geração de imagens. Referências de identidade e apresentação: [LynowCut](https://github.com/arthurlynow098/LynowCut), [LynowMic](https://github.com/arthurlynow098/LynowMic) e [LynowCatch](https://github.com/arthurlynow098/LynowCatch). Os créditos e avisos do conteúdo original foram preservados.
+Artes da coleção fornecida por **Arthur Entsev**, com adaptação das logos e acabamento dos banners realizados com auxílio de geração de imagens. Referências de identidade e apresentação, [LynowCut](https://github.com/arthurlynow098/LynowCut), [LynowMic](https://github.com/arthurlynow098/LynowMic) e [LynowCatch](https://github.com/arthurlynow098/LynowCatch). Os créditos e avisos do conteúdo original foram preservados.
 
 <p align="center"><a href="#top">Voltar ao topo ↑</a> · <a href="https://github.com/arthurlynow098">Arthur Entsev</a> · <a href="https://arthurentsev.vercel.app/">Portfólio</a></p>
