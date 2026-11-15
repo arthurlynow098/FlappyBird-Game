@@ -1,5 +1,9 @@
 <a id="top"></a>
 
+<p align="center"><sub>Flappy Bird</sub></p>
+
+---
+
 <p align="center"><img src="assets/identity-v2/banner.png" alt="Flappy Bird" width="100%"></p>
 
 <p align="center">Jogo de navegador inspirado em Flappy Bird, feito com JavaScript, HTML e CSS.</p>
@@ -10,35 +14,29 @@
 <img alt="CSS" src="https://img.shields.io/badge/CSS-E8B220?style=for-the-badge&amp;logo=css&amp;logoColor=white">
 </p>
 
-
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
-
 
 <a id="explore-o-projeto"></a>
 
 <a id="por-onde-começar"></a>
 
-<p><img src="assets/identity-v2/section-01.svg" alt="Por onde começar" width="100%"></p>
-
+## Por onde começar
 
 - **[Página](Flappy-Bird-main/index.html)**, estrutura da página do jogo.
 - **[Jogo](Flappy-Bird-main/script.js)**, lógica e interação em JavaScript.
 - **[Elementos visuais](Flappy-Bird-main/images)**, sprites, cenário e imagens da interface.
 
-
 <a id="visão-geral"></a>
 
 <a id="sobre-o-projeto"></a>
 
-<p><img src="assets/identity-v2/section-02.svg" alt="Sobre o projeto" width="100%"></p>
+## Sobre o projeto
 
 Todos os recursos gráficos clássicos, cenário de fundo, pássaro, canos superiores e inferiores, logotipo e tela de *Game Over*, estão organizados localmente na pasta Flappy-Bird-main/images/, permitindo executar o jogo imediatamente em qualquer navegador moderno.
 
 <a id="recursos"></a>
 
-
-
-<p><img src="assets/identity-v2/section-03.svg" alt="Recursos" width="100%"></p>
+## Recursos
 
 **Loop de jogo contínuo**<br>
 Atualização quadro a quadro da posição vertical do pássaro e do deslocamento horizontal dos canos.
@@ -60,9 +58,7 @@ Tela de início com botão interativo e transição imediata para nova tentativa
 
 <a id="tecnologias"></a>
 
-
-
-<p><img src="assets/identity-v2/section-04.svg" alt="Tecnologias" width="100%"></p>
+## Tecnologias
 
 - **JavaScript (script.js)** para o game loop, eventos de teclado/clique, física e placar
 - **HTML5 (index.html)** para estruturação do palco do jogo
@@ -71,8 +67,7 @@ Tela de início com botão interativo e transição imediata para nova tentativa
 
 <a id="arquitetura"></a>
 
-<p><img src="assets/identity-v2/section-05.svg" alt="Arquitetura" width="100%"></p>
-
+## Arquitetura
 
 ```mermaid
 flowchart LR
@@ -85,11 +80,9 @@ flowchart LR
     E -->|Sim| H["Tela de Game Over"]
 ```
 
-
 <a id="estrutura-do-repositório"></a>
 
-<p><img src="assets/identity-v2/section-06.svg" alt="Estrutura do repositório" width="100%"></p>
-
+## Estrutura do repositório
 
 ```text
 FlappyBird-Game/
@@ -103,12 +96,9 @@ FlappyBird-Game/
 └── README.md
 ```
 
-
 <a id="como-executar"></a>
 
-
-
-<p><img src="assets/identity-v2/section-07.svg" alt="Como executar" width="100%"></p>
+## Como executar
 
 1. Clone o repositório
    ```bash
@@ -119,12 +109,9 @@ FlappyBird-Game/
 
 <a id="decisões-técnicas"></a>
 
-
-
-<p><img src="assets/identity-v2/section-08.svg" alt="Decisões técnicas" width="100%"></p>
+## Decisões técnicas
 
 - **Zero dependências externas.** Toda a lógica de colisão e animação foi escrita em JavaScript nativo para manter o carregamento instantâneo e evidenciar os fundamentos da linguagem.
-
 
 <p align="center">
   <a href="https://github.com/arthurlynow098">GitHub</a> &nbsp;·&nbsp;
@@ -132,10 +119,9 @@ FlappyBird-Game/
   <a href="https://www.linkedin.com/in/entsevarthur/">LinkedIn</a>
 </p>
 
-
 <a id="identidade-e-créditos"></a>
 
-<p><img src="assets/identity-v2/section-09.svg" alt="Identidade e créditos" width="100%"></p>
+## Identidade e créditos
 
 <table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Pardal" width="130"></td><td><strong>Pardal</strong><br>Voo e movimento, elementos centrais do jogo.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/identity-v2/banner.png">Banner em PNG</a></td></tr></table>
 
