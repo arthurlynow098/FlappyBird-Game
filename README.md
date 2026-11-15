@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-<p align="center"><img src="assets/banner.png" alt="Flappy Bird" width="100%"></p>
+<p align="center"><img src="assets/identity-v2/banner.png" alt="Flappy Bird" width="100%"></p>
 
 <p align="center">Jogo de navegador inspirado em Flappy Bird, feito com JavaScript, HTML e CSS.</p>
 
@@ -18,7 +18,7 @@
 
 <a id="por-onde-começar"></a>
 
-<p><img src="assets/secao-01.png" alt="Por onde começar" width="100%"></p>
+<p><img src="assets/identity-v2/section-01.svg" alt="Por onde começar" width="100%"></p>
 
 
 - **[Página](Flappy-Bird-main/index.html)**, estrutura da página do jogo.
@@ -30,7 +30,7 @@
 
 <a id="sobre-o-projeto"></a>
 
-<p><img src="assets/secao-02.png" alt="Sobre o projeto" width="100%"></p>
+<p><img src="assets/identity-v2/section-02.svg" alt="Sobre o projeto" width="100%"></p>
 
 Todos os recursos gráficos clássicos, cenário de fundo, pássaro, canos superiores e inferiores, logotipo e tela de *Game Over*, estão organizados localmente na pasta Flappy-Bird-main/images/, permitindo executar o jogo imediatamente em qualquer navegador moderno.
 
@@ -38,7 +38,7 @@ Todos os recursos gráficos clássicos, cenário de fundo, pássaro, canos super
 
 
 
-<p><img src="assets/secao-03.png" alt="Recursos" width="100%"></p>
+<p><img src="assets/identity-v2/section-03.svg" alt="Recursos" width="100%"></p>
 
 **Loop de jogo contínuo**<br>
 Atualização quadro a quadro da posição vertical do pássaro e do deslocamento horizontal dos canos.
@@ -62,7 +62,7 @@ Tela de início com botão interativo e transição imediata para nova tentativa
 
 
 
-<p><img src="assets/secao-04.png" alt="Tecnologias" width="100%"></p>
+<p><img src="assets/identity-v2/section-04.svg" alt="Tecnologias" width="100%"></p>
 
 - **JavaScript (script.js)** para o game loop, eventos de teclado/clique, física e placar
 - **HTML5 (index.html)** para estruturação do palco do jogo
@@ -71,7 +71,7 @@ Tela de início com botão interativo e transição imediata para nova tentativa
 
 <a id="arquitetura"></a>
 
-<p><img src="assets/secao-05.png" alt="Arquitetura" width="100%"></p>
+<p><img src="assets/identity-v2/section-05.svg" alt="Arquitetura" width="100%"></p>
 
 
 ```mermaid
@@ -88,7 +88,7 @@ flowchart LR
 
 <a id="estrutura-do-repositório"></a>
 
-<p><img src="assets/secao-06.png" alt="Estrutura do repositório" width="100%"></p>
+<p><img src="assets/identity-v2/section-06.svg" alt="Estrutura do repositório" width="100%"></p>
 
 
 ```text
@@ -108,7 +108,7 @@ FlappyBird-Game/
 
 
 
-<p><img src="assets/secao-07.png" alt="Como executar" width="100%"></p>
+<p><img src="assets/identity-v2/section-07.svg" alt="Como executar" width="100%"></p>
 
 1. Clone o repositório
    ```bash
@@ -121,7 +121,7 @@ FlappyBird-Game/
 
 
 
-<p><img src="assets/secao-08.png" alt="Decisões técnicas" width="100%"></p>
+<p><img src="assets/identity-v2/section-08.svg" alt="Decisões técnicas" width="100%"></p>
 
 - **Zero dependências externas.** Toda a lógica de colisão e animação foi escrita em JavaScript nativo para manter o carregamento instantâneo e evidenciar os fundamentos da linguagem.
 
@@ -135,9 +135,9 @@ FlappyBird-Game/
 
 <a id="identidade-e-créditos"></a>
 
-<p><img src="assets/secao-09.png" alt="Identidade e créditos" width="100%"></p>
+<p><img src="assets/identity-v2/section-09.svg" alt="Identidade e créditos" width="100%"></p>
 
-<table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Pardal" width="130"></td><td><strong>Pardal</strong><br>Voo e movimento, elementos centrais do jogo.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/banner.png">Banner em PNG</a></td></tr></table>
+<table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Pardal" width="130"></td><td><strong>Pardal</strong><br>Voo e movimento, elementos centrais do jogo.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/identity-v2/banner.png">Banner em PNG</a></td></tr></table>
 
 Artes da coleção fornecida por **Arthur Entsev**, com adaptação das logos e acabamento dos banners realizados com auxílio de geração de imagens. Referências de identidade e apresentação, [LynowCut](https://github.com/arthurlynow098/LynowCut), [LynowMic](https://github.com/arthurlynow098/LynowMic) e [LynowCatch](https://github.com/arthurlynow098/LynowCatch). Os créditos e avisos do conteúdo original foram preservados.
 
